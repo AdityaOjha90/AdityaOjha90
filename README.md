@@ -24,7 +24,8 @@ Always curious, always improving.
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya90&show_icons=true&theme=transparent)
+![GitHub stats]GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya90&show_icons=true&theme=radical)   <!-- Dark Pink/Neon -->
+
 
 ---
 
