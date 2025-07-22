@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya  
 
-<!--
-**AdityaOjha90/AdityaOjha90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Tech enthusiast exploring **programming & automation**  
+🌱 Currently learning **C, Python & GitHub**  
+🚀 Interested in **AI, IoT & innovative projects**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 About Me  
+
+I enjoy **learning new technologies** and improving my skills step by step.  
+I like working on **small projects**, experimenting with **hardware & software**, and exploring new ideas.  
+Always curious, always improving.  
+
+---
+
+## 🛠 Skills & Tools  
+
+- **Languages:** C (beginner), Python (learning)  
+- **Tools:** Git, GitHub, VS Code  
+- **Interests:** AI, IoT, CNC Machines, Automation  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya90&show_icons=true&theme=transparent)
+
+---
+
+⭐ *Always open to learning, exploring, and building something new.*
